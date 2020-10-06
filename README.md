@@ -17,6 +17,12 @@ For the first time, you need to connect a moniter and keyboard as I/O devices to
 
 * Make a note of the IP address. 
 
+### Enable SSH
+
+Go to Menu > Preferences > Raspberry Pi configuration
+
+Under `Inferences` tab: Enable SSH.
+
 ## VNC
 
 VNC (Virtual Network Computing) is a graphical desktop sharing system that you can use to remotely control Raspberry Pi.
