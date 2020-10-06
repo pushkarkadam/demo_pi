@@ -91,9 +91,9 @@ Create virtual environment:
 Activate virtual environment: 
 `source venv/bin/activate`
 
-Installing serial:
+**Installing dependencies**:
 
-`pip install pyserial`
+`pip install -r requirements.txt`
 
 ### View ports
 
